@@ -1,0 +1,13 @@
+/* assets/css/style.css */
+body {
+    font-family: 'Rubik', sans-serif;
+}
+
+.fuente-rubik {
+    font-family: 'Karla', sans-serif;
+    font-weight: 300;
+}
+
+.text-verde {
+    color: #1CAE70;
+}
